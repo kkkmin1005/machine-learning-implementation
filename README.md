@@ -19,3 +19,7 @@ y = XW
 성능 평가 (R² 점수)
 모델의 성능은 결정 계수를 통해 평가됩니다.
 
+## 최근접이웃 알고리즘
+### 모델 구조
+학습 - 메모리에 학습 데이터셋의 feature matrix, class vector 저장
+예측 - 저장된 feature matirx와 L1 distance를 구한 후 가장 가까운 샘플의 클래스로 예측
