@@ -1,3 +1,21 @@
-# ai project
- Implement AI models
-machine learning and deep learning
+## machine learning implementation
+기계학습 알고리즘 직접 구현하는 프로젝트
+
+## 선형회귀 알고리즘
+### 사용 라이브러리
+- numpy
+- pandas
+
+### 데이터셋
+- 집값 데이터
+
+### 모델 구조
+선형 회귀 모델은 다음과 같은 방정식을 따릅니다:
+y = XW
+
+학습 과정 (경사하강법)
+손실 함수(평균 제곱 오차, MSE)를 최소화하기 위해 경사하강법을 사용하여 가중치를 업데이트합니다.
+
+성능 평가 (R² 점수)
+모델의 성능은 결정 계수를 통해 평가됩니다.
+
