@@ -44,4 +44,5 @@ loss function - cross entropy 이용
 
 ### 결과
 ![image](https://github.com/user-attachments/assets/948a25a3-5b9a-4871-a7ec-9ba969c58f5a)
+  
 (학습 시간이 오래 걸려, 임시로 에포크 1로 진행한 결과)
