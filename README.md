@@ -37,10 +37,10 @@ eval - 테스트 데이터에 시각화 및 원본과 비교
 
 ## GAN
 ### 모델구조
-generator - 노이즈로 부터 이미지 생성
-discriminator - 진짜 이미지와, 생성된 이미지를 구분
+generator - 노이즈로 부터 이미지 생성  
+discriminator - 진짜 이미지와, 생성된 이미지를 구분  
 
-loss function - cross entropy 이용
+loss function - cross entropy 이용  
 
 ### 결과
 ![image](https://github.com/user-attachments/assets/948a25a3-5b9a-4871-a7ec-9ba969c58f5a)
