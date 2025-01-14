@@ -34,3 +34,14 @@ eval - 테스트 데이터에 시각화 및 원본과 비교
 
 ### 결과
 ![image](https://github.com/user-attachments/assets/893299c6-e1dc-4f39-87c1-0f909c4bbfa0)
+
+## GAN
+### 모델구조
+generator - 노이즈로 부터 이미지 생성
+discriminator - 진짜 이미지와, 생성된 이미지를 구분
+
+loss function - cross entropy 이용
+
+### 결과
+![image](https://github.com/user-attachments/assets/948a25a3-5b9a-4871-a7ec-9ba969c58f5a)
+(학습 시간이 오래 걸려, 임시로 에포크 1로 진행한 결과)
