@@ -26,10 +26,10 @@ y = XW
 
 ## VAE
 ### 모델구조
-encoder - 입력 데이터를 latent space로 매핑하여 평균과 로그 분산 반환
-decoder - 평균과 로그 분산을 활용하여 입력 데이터를 복원
+encoder - 입력 데이터를 latent space로 매핑하여 평균과 로그 분산 반환  
+decoder - 평균과 로그 분산을 활용하여 입력 데이터를 복원  
 
-train - 학습에 관한 코드
+train - 학습에 관한 코드  
 eval - 테스트 데이터에 시각화 및 원본과 비교
 
 ### 결과
